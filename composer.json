@@ -1,10 +1,25 @@
 {
     "name" : "iuravic/duktig-http-factory-guzzle-adapter",
     "type" : "library",
-    "authors": [
-        {"name": "Ivan Uravić", "email": "iuravic@gmail.com"}
+    "description": "Guzzle HTTP message factory adapter for Duktig MVC micro web framework",
+    "keywords": [
+        "Duktig",
+        "framework",
+        "adapter",
+        "Guzzle",
+        "PSR-7",
+        "http factory"
     ],
-    "license" : ["MIT"],
+    "homepage": "https://github.com/iuravic/duktig-http-factory-guzzle-adapter",
+    "license": [
+        "MIT"
+    ],
+    "authors": [
+        {
+            "name": "Ivan Uravić",
+            "email": "iuravic@gmail.com"
+        }
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require" : {
