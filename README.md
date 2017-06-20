@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/iuravic/duktig-http-factory-guzzle-adapter.svg?branch=master)](https://travis-ci.org/iuravic/duktig-http-factory-guzzle-adapter)
+
 # duktig-http-factory-guzzle-adapter
 
 This is the [Guzzle HTTP messages](https://github.com/guzzle/psr7) adapter package package for the Duktig micro MVC web framework. 
