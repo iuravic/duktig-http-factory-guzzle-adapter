@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/iuravic/duktig-http-factory-guzzle-adapter.svg?branch=master)](https://travis-ci.org/iuravic/duktig-http-factory-guzzle-adapter)
+[![Build Status](https://travis-ci.org/iuravic/duktig-http-factory-guzzle-adapter.svg?branch=master)](https://travis-ci.org/iuravic/duktig-http-factory-guzzle-adapter) [![Coverage Status](https://coveralls.io/repos/github/iuravic/duktig-http-factory-guzzle-adapter/badge.svg?branch=master)](https://coveralls.io/github/iuravic/duktig-http-factory-guzzle-adapter?branch=master)
 
 # duktig-http-factory-guzzle-adapter
 
